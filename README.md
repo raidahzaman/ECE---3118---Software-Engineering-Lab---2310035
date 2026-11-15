@@ -46,8 +46,13 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Lab Experiment No. | Title |
-| :---: | :---: |
-| 01 | Lab_1 Name. |
+| Lab Experiment No. | Title | Remark |
+| :---: | :---: |:---: |
+| 01 | Lab_1 Name. |    |
+| 02 | Lab_2 Name. |    |
+| 03 | Lab_3 Name. |    |
+| 04 | Lab_4 Name. |    |
+| 05 | Lab_5 Name. |    |
+| 06 | Lab_6 Name. |    |
 </div>
  
